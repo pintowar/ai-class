@@ -1,0 +1,9 @@
+pom.xml
+ai-class.iml
+ai-class.ipr
+ai-class.iws
+*jar
+/lib/
+/classes/
+.lein-failures
+.lein-deps-sum
